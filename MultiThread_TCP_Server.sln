@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThread_TCP_Server", "MultiThread_TCP_Server\MultiThread_TCP_Server.csproj", "{ED852E69-51C2-4FBA-B29B-166E9134D98E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithread_TCP_Client", "Multithread_TCP_Client\Multithread_TCP_Client.csproj", "{F91C37F4-E9AE-48BF-BCAD-3E9290D17A21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED852E69-51C2-4FBA-B29B-166E9134D98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED852E69-51C2-4FBA-B29B-166E9134D98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED852E69-51C2-4FBA-B29B-166E9134D98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED852E69-51C2-4FBA-B29B-166E9134D98E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F91C37F4-E9AE-48BF-BCAD-3E9290D17A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91C37F4-E9AE-48BF-BCAD-3E9290D17A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91C37F4-E9AE-48BF-BCAD-3E9290D17A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91C37F4-E9AE-48BF-BCAD-3E9290D17A21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B093F055-5192-4895-AF51-5DF76BE57F65}
+	EndGlobalSection
+EndGlobal
